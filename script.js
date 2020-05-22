@@ -13,7 +13,7 @@ window.addEventListener("load", function() {
            //console.log(i)
             //return json;
             
-            //json.sort(sortTime)
+            json.sort(sortTime)
             text +=  ` 
             <div class= "astronaut">
                 <div class= "bio">
